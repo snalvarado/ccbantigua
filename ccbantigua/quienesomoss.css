@@ -1,0 +1,277 @@
+body{
+    background-color: #EFEFEF;
+    overflow-x: hidden;
+}
+.encabezado{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1600px;
+    margin-left: -50px;
+
+}
+
+.final{
+    margin-top: 2066px;
+    margin-bottom: -100px;
+    margin-left: -8px;
+    width: 1520px;
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.act{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+button{
+    border: 0px;
+    padding: 0%;
+}
+
+.titulo--1{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    position: absolute;
+    padding-left: 40%;
+     top: 35%;
+     z-index:1;
+}
+.info--1{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    text-align:justify;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 45%;
+     z-index:1;
+}
+.info--2{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 50%;
+     z-index:1;
+}
+.info--3{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    color: white;
+    position: absolute;
+    padding-left: 6%;
+     top: 55%;
+     z-index:1;
+}
+.info--4{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: xx-large;
+    color: white;
+    position: absolute;
+    padding-left: 10%;
+     top: 60%;
+     z-index:1;
+}
+.morado--b{
+   margin-bottom: 900px;
+   margin-top: -38px;
+   margin-left: -30px;
+   margin-right: -100px;
+   padding:  10px;
+   width: 1657px;
+   height: 402px;
+   position: absolute;
+     top: 60%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+    
+ }
+ .foto--h2{
+    margin-bottom: 900px;
+    margin-top: -32px;
+    margin-left: -30px;
+    padding:  10px;
+    width: 1570px;
+    height: 400px;
+    
+ }
+
+.body--1{
+font-family: 'Hammersmith One', sans-serif;
+font-size: x-large;
+color: #362565;
+position: absolute;
+width: 765px;
+height: 721.9px;
+left: 0px;
+top: 616px;
+background: rgba(150, 197, 175, 0.8);
+}
+.histo--ria{
+    margin-top: 45px;
+    margin-left: 300px;
+}
+.historia--info{
+    text-align: justify;
+    width: 600px;
+    height: 100px;
+    line-height: 35px;
+    margin-left: 70px;
+    font-size: 20px;
+}
+.enfoque--i{
+    margin-top: -240.8px;
+    margin-left: 765px;
+    width: 793px;
+    height:722px;
+}
+.dos{
+    margin-top: -93px;
+}
+.enfoque--im{
+    margin-left: -765px;
+    margin-top: -225px;
+    width: 765px;
+    height: 721.9px;
+}
+.body--2{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: x-large;
+    color: #362565;
+    position: absolute;
+    width: 1500px;
+    height: 721.9px;
+    left: 0px;
+    top: 1337.5px;
+    background: rgba(150, 197, 175, 0.8);
+    margin-left: 765px;
+}
+.enfoque--info{
+    text-align: justify;
+    width: 600px;
+    height: 100px;
+    line-height: 35px;
+    margin-left: 90px;
+    font-size: 20px;
+}
+.enfo--que{
+    margin-left: 325px;
+}
+.body--3{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: x-large;
+    color: #362565;
+    position: absolute;
+    width: 765px;
+    height: 721.9px;
+    left: 0px;
+    top: 2060px;
+    background: rgba(150, 197, 175, 0.8);
+}
+.mision--info{
+    text-align: justify;
+    width: 600px;
+    height: 100px;
+    line-height: 35px;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 130px;
+}
+.mi--sion{
+    margin-left: 300px;
+}
+.mision--im{
+    margin-top: -326px;
+    margin-left: 765px;
+    width: 793px;
+    height:722px;
+}
+
+.body--4{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: x-large;
+    color: #362565;
+    position: absolute;
+    width: 1500px;
+    height: 722.8px;
+    left: 0px;
+    top: 2781.5px;
+    background: rgba(150, 197, 175, 0.8);
+    margin-left: 765px;
+}
+.vision--info{
+    text-align: justify;
+    width: 600px;
+    height: 100px;
+    line-height: 35px;
+    margin-left: 90px;
+    font-size: 20px;
+}
+.vision--im{
+    margin-right: 5000px;
+}
